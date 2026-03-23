@@ -1,4 +1,4 @@
 # Aryan-testing
 This is my first repo.
 <br>
-Author: Shresth Aryan
+Author: Shresth Aryan(me)
